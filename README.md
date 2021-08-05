@@ -10,6 +10,7 @@ Projeto realizado na trilha <strong>Elixir</strong> da Next Level Week#6 da [Roc
 - [Elixir](https://elixir-lang.org/)
 - [PostgreSQL](https://www.postgresql.org/)
 - [Phoenix](https://www.phoenixframework.org/)
+- [GraphQL](https://graphql.org/)
 
 ## 🚀 Instalação
 
@@ -31,6 +32,7 @@ Project developed on <strong>Elixir</strong> trail of Next Level Week#6 from [Ro
 - [Elixir](https://elixir-lang.org/)
 - [PostgreSQL](https://www.postgresql.org/)
 - [Phoenix](https://www.phoenixframework.org/)
+- [GraphQL](https://graphql.org/)
 
 ## 🚀 Installation
 
