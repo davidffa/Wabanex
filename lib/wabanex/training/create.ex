@@ -1,4 +1,4 @@
-defmodule Wabanex.Trainings.Create do
+defmodule Wabanex.Training.Create do
   alias Wabanex.{Repo, Training}
 
   def call(params) do
